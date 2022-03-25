@@ -20,16 +20,16 @@ git clone git@github.com:turingschool-examples/erroneous_creatures.git
 
 ## Suggested Order
 
-* `unicorn_spec.rb`
-* `vampire_spec.rb`
-* `dragon_spec.rb`
-* `hobbit_spec.rb`
-* `pirate_spec.rb`
-* `wizard_spec.rb`
-* `medusa_spec.rb`
-* `werewolf_spec.rb`
-* `centaur_spec.rb`
-* `hippogriff_spec.rb`
+* [x] `unicorn_spec.rb`
+* [x] `vampire_spec.rb`
+* [x] `dragon_spec.rb`
+* [x] `hobbit_spec.rb`
+* [] `pirate_spec.rb`
+* [] `wizard_spec.rb`
+* [] `medusa_spec.rb`
+* [] `werewolf_spec.rb`
+* [] `centaur_spec.rb`
+* [] `hippogriff_spec.rb`
 
 ### Common Mistakes
 
