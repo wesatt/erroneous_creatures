@@ -24,8 +24,8 @@ git clone git@github.com:turingschool-examples/erroneous_creatures.git
 * [x] `vampire_spec.rb`
 * [x] `dragon_spec.rb`
 * [x] `hobbit_spec.rb`
-* [] `pirate_spec.rb`
-* [] `wizard_spec.rb`
+* [x] `pirate_spec.rb`
+* [x] `wizard_spec.rb`
 * [] `medusa_spec.rb`
 * [] `werewolf_spec.rb`
 * [] `centaur_spec.rb`
